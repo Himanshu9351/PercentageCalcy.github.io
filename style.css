@@ -39,6 +39,7 @@ form{
     text-align: center;
     font-size: large;
     color: brown;
+    outline: none;
 }
 ::placeholder{
     color: brown;
@@ -58,6 +59,7 @@ form{
     color: blanchedalmond;
     background-color: brown;
     font-size: large;
+    cursor: pointer;
 }
 .newdiv{
     text-align: center;

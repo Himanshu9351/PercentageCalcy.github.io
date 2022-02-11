@@ -1,1 +1,0 @@
-# PercentageCalcy.github.io
